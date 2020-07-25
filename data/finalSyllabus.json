@@ -1,0 +1,12 @@
+{
+    "courseData": [{
+
+        "rules": "Rules",
+        "secret": "This is a secret CIS class. You are not allowed to speak of this class outside of our classroom.",
+        "classwork": "We will have classwork everyday. You are expected to already have the classwork done before I enter the room",
+        "questions": "I will not answer any questions you have outside of the classroom that concerns this class or any work assigned. Please refer to the first item on this list",
+        "exams": "We will have only one exam for the entire semester. This will count for 99% percent of your final grade. You will not be allowed to use a computer during the exam. All of your code must be hand written and work perfectly or you will fail."
+
+
+    }]
+}
